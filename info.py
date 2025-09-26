@@ -40,7 +40,7 @@ course_data = {
     #["I know some Python and some Java", "I can do basic calculus", "I know basic ecology", "I know how to take care of myself", "I know my way around GT"]
 experience_data = {
     "High School Student": (["- Worked on getting all A's",
-                                                                          "- Got good enough grades to get a scholarship by my high school", "- Made my parents proud"],"Images/grad.jpg"),
+                                                                          "- Got good enough grades to get a scholarship by my high school", "- Made my parents proud"],"Images/grad.JPG"),
     "Big Brother":(["- Helped raise my ten year old brother",
                                                            "- Fed and clothed him and played with him"],"Images/us.jpg"),
     #"Jelly Fish Catcher":(["- Caught 100+ Jellyfish with the help of my colleague Patrick"],"Images/jelly.jpg")
